@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.container2 {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-top: 64px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    gap: 5px;
+}
+
+
+.food2 img {
+    display: flex;
+    height: 600%;
+    width: 100%;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.food3 img {
+    display: flex;
+    height: 600%;
+    width: 100%;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.food4 img {
+    display: flex;
+    height: 600%;
+    width: 100%;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.food5 img {
+    display: flex;
+    height: 600%;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+
+}
+
+.food2 {
+    text-align: center;
+    border: solid black;
+}
+
+.food3 {
+    text-align: center;
+    border: solid black;
+}
+
+.food4 {
+    text-align: center;
+    border: solid black;
+}
+
+.food5 {
+    text-align: center;
+    border: solid black;
+}
+
+.food2 button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+
+.food3 button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+
+.food4 button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+
+.food5 button {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 80px;
+}
+
+.container3 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 115px;
+    margin-bottom: 20px;
+    height: 185px;
+
+}
+
+.food6 button {
+    background-color: yellow;
+    color: black;
+    width: 50px;
+    height: 25px;
+    margin-top: 15px;
+}
+
+.food6 h1 {
+    margin-top: 15px;
+}
